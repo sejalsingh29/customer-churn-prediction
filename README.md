@@ -1,2 +1,2 @@
 # customer-churn-prediction
-An end-to-end machine learning project to predict customer churn, analyze customer behavior, and recommend retention strategies.
+End-to-end Customer Churn Prediction & Retention Intelligence System using Machine Learning, Explainable AI, and Business Analytics.
