@@ -1,27 +1,73 @@
-# customer-churn-prediction
-End-to-end Customer Churn Prediction & Retention Intelligence System using Machine Learning, Explainable AI, and Business Analytics.
 # Customer Churn Prediction
 
-## Project Overview
+## 📌 Project Overview
 
-## Dataset
+This project predicts whether a customer is likely to churn (leave the company) using Machine Learning.
 
-## Business Problem
+The project follows the complete Machine Learning lifecycle:
 
-## Technologies Used
+- Business Understanding
+- Data Understanding
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Building
+- Model Evaluation
+- Model Saving
+
+---
+
+## 📂 Project Structure
+
+customer-churn-prediction/
+│
+├── data/
+├── models/
+├── notebooks/
+├── README.md
+├── requirements.txt
+└── LICENSE
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
-- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+- Git
+- GitHub
 
-## Models
+---
+
+## 🤖 Machine Learning Models
+
 - Logistic Regression
 - Decision Tree
 - Random Forest
 
-## Results
+---
 
-## Future Improvements
+## 📊 Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+
+---
+
+## 📁 Dataset
+
+Telco Customer Churn Dataset
+
+---
+
+## 🚀 Future Improvements
+
+- Deploy using Streamlit
+- Explainable AI (SHAP)
+- Power BI Dashboard
