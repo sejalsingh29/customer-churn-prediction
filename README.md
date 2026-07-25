@@ -71,3 +71,33 @@ Telco Customer Churn Dataset
 - Deploy using Streamlit
 - Explainable AI (SHAP)
 - Power BI Dashboard
+
+# 📊 Exploratory Data Analysis
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Churn by Gender
+![Churn by Gender](images/churn_by_gender.png)
+
+### Contract vs Churn
+![Contract vs Churn](images/contract_vs_churn.png)
+
+### Internet Service vs Churn
+![Internet Service vs Churn](images/internet_vs_churn.png)
+
+### Payment Method vs Churn
+![Payment Method vs Churn](images/payment_method_vs_churn.png)
+
+### Monthly Charges Distribution
+![Monthly Charges](images/monthly_charges.png)
+
+---
+
+# 🤖 Model Results
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
+
+### Random Forest Model
+![Random Forest](images/random_forest.png)
